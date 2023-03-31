@@ -1,21 +1,23 @@
 # Hey there 👋
 
 
-My name is **Koh Su Xuan**, a First Year Student in Bachelor's Degree in Computer Science(Data Engineering), Universiti Teknologi Malysia(UTM).
+My name is **Koh Su Xuan**, a First Year Student in Bachelor's Degree in Computer Science (Data Engineering), Universiti Teknologi Malysia (UTM).<br/><br/>
 
-Here are some ideas to get to know me:
 
-- 🌱 I’m currently learning programming languages.
-- 💬 Ask me about anything you interested in!
+
+- 🌱 I’m currently learning programming languages.:computer:
+- 💬 Ask me about anything you interested in!:crystal_ball:
 - 📫 How to reach me: 
   [![Linkedin Badge](https://img.shields.io/badge/-kohxuan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/koh-su-xuan-824795260)
   
-- ⚡ Fun fact: I like drawing but never draw well.
+- ⚡ Fun fact: I like drawing but never draw well.:art:
+<br/><br/>
 
 ---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kohxuan&theme=dark&background=000000)](https://git.io/streak-stats)
+<br/><br/>
 
 ---
 
