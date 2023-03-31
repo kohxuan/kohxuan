@@ -7,7 +7,9 @@ Here are some ideas to get to know me:
 
 - 🌱 I’m currently learning programming languages.
 - 💬 Ask me about anything you interested in!
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kohxuan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/koh-su-xuan-824795260)
+- 📫 How to reach me: 
+  [![Linkedin Badge](https://img.shields.io/badge/-kohxuan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/koh-su-xuan-824795260)
+  
 - ⚡ Fun fact: I like drawing but never draw well.
 
 ---
