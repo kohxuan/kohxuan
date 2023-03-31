@@ -1,15 +1,13 @@
-# Hey there 👋
+# HELLO MY FRIENDS!!!<img src="https://user-images.githubusercontent.com/128119778/229175365-2f9d1277-5b42-4efc-a0f0-34ba166fdf0e.gif" width="60" height="50">
+
+I am **Koh Su Xuan**, a First Year Student in Bachelor's Degree in Computer Science (Data Engineering), Universiti Teknologi Malysia (UTM).<br/><br/>
 
 
-My name is **Koh Su Xuan**, a First Year Student in Bachelor's Degree in Computer Science (Data Engineering), Universiti Teknologi Malysia (UTM).<br/><br/>
 
-
-
-- 🌱 I’m currently learning programming languages.:computer:
+- 🌱 Currently learning programming languages.:computer:
 - 💬 Ask me about anything you interested in!:crystal_ball:
 - 📫 How to reach me: 
   [![Linkedin Badge](https://img.shields.io/badge/-kohxuan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/koh-su-xuan-824795260)
-  
 - ⚡ Fun fact: I like drawing but never draw well.:art:
 <br/><br/>
 
@@ -22,7 +20,7 @@ My name is **Koh Su Xuan**, a First Year Student in Bachelor's Degree in Compute
 ---
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/bRThdTmf9SHxFqH6Kr/giphy.gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/128119778/229175931-ae1db102-0af3-4ce3-be37-9800486b68b0.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/koh-su-xuan-824795260/">
