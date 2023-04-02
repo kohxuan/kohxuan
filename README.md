@@ -13,6 +13,11 @@ I am **Koh Su Xuan**, a First Year Student in Bachelor's Degree in Computer Scie
 
 ---
 
+### Languages and Tools
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://user-images.githubusercontent.com/128120717/228771294-d9ab05a8-c88c-455a-b375-2e8896ec801f.png" width="30"></a>
+
+---
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kohxuan&theme=dark&background=000000)](https://git.io/streak-stats)
 <br/><br/>
