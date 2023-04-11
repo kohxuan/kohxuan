@@ -7,7 +7,9 @@ I am **Koh Su Xuan**, a First Year Student in Bachelor's Degree in Computer Scie
 - 🌱 Currently learning programming languages.:computer:
 - 💬 Ask me about anything you interested in!:crystal_ball:
 - 📫 How to reach me: 
-  [![Linkedin Badge](https://img.shields.io/badge/-kohxuan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/koh-su-xuan-824795260)
+    <a href="https://github.com/kohxuan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-kohxuan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/koh-su-xuan-824795260/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-kohxuan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drshahizan/"></a>
+    <a href="mailto:koh.xuan@graduate.utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-koh.xuan@graduate.utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahizan@utm.my.com"></a>
 - ⚡ Fun fact: I like drawing but never draw well.:art:
 <br/><br/>
 
