@@ -4,19 +4,19 @@ I am **Koh Su Xuan**, a First Year Student in Bachelor's Degree in Computer Scie
 
 
 
-- 🌱 Currently learning programming languages.:computer:
-- 💬 Ask me about anything you interested in!:crystal_ball:
-- 📫 How to reach me: 
-    <a href="https://github.com/kohxuan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-kohxuan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+- 🌱 Currently learning programming languages. :computer:
+- 💬 Ask me about anything you interested in! :crystal_ball:
+- 📫 Reach me via: 
+    <a href="https://github.com/kohxuan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@kohxuan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/koh-su-xuan-824795260/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-kohxuan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drshahizan/"></a>
     <a href="mailto:koh.xuan@graduate.utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-koh.xuan@graduate.utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahizan@utm.my.com"></a>
-- ⚡ Fun fact: I like drawing but never draw well.:art:
+- ⚡ Fun fact: I like drawing but never draw well. :art:
 <br/><br/>
 
 
 ---
 
-### Languages and Tools
+### Languages and Tools :keyboard:
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://user-images.githubusercontent.com/128120717/228771294-d9ab05a8-c88c-455a-b375-2e8896ec801f.png" width="30"></a>
 
 ---
@@ -24,6 +24,15 @@ I am **Koh Su Xuan**, a First Year Student in Bachelor's Degree in Computer Scie
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kohxuan&theme=blood)](https://git.io/streak-stats)
 <br/><br/>
+
+---
+
+
+### :arrow_forward: GitHub Stats:
+<p align="left">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kohxuan&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+</p>
+
 
 ---
 
