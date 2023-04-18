@@ -40,11 +40,7 @@ I am **Koh Su Xuan**, a First Year Student in Bachelor's Degree in Computer Scie
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/128119778/229175931-ae1db102-0af3-4ce3-be37-9800486b68b0.gif" width="100"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/koh-su-xuan-824795260/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+<br/>
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=kohxuan&style=flat-square&color=blue" alt=""/>
 </div>
