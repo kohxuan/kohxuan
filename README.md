@@ -22,7 +22,7 @@ I am **Koh Su Xuan**, a First Year Student in Bachelor's Degree in Computer Scie
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kohxuan&theme=react)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kohxuan&theme=graywhite)](https://git.io/streak-stats)
 <br/><br/>
 
 ---
