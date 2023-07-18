@@ -1,6 +1,6 @@
 # HELLO MY FRIENDS!!!<img src="https://user-images.githubusercontent.com/128119778/229175365-2f9d1277-5b42-4efc-a0f0-34ba166fdf0e.gif" width="60" height="50">
 
-I am **Koh Su Xuan**, a First Year Student in Bachelor's Degree in Computer Science (Data Engineering), Universiti Teknologi Malaysia (UTM).<br/><br/>
+I am **Koh Su Xuan**, a Student in Bachelor's Degree in Computer Science (Data Engineering), Universiti Teknologi Malaysia (UTM).<br/><br/>
 
 
 
