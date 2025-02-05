@@ -23,8 +23,8 @@ I am **Koh Su Xuan**, a Student in Bachelor's Degree in Computer Science (Data E
 ---
 
 ### 🔥 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kohxuan&theme=graywhite)](https://git.io/streak-stats)
-<br/><br/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=kohxuan&theme=graywhite"/>
+<!-- <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kohxuan&theme=graywhite&hide_border=true&short_numbers=true"/> -->
 
 ---
 
