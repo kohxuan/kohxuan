@@ -8,7 +8,7 @@ I am **Koh Su Xuan**, a Student in Bachelor's Degree in Computer Science (Data E
 - 💬 Ask me about anything you interested in! :crystal_ball:
 - 📫 Reach me via: 
     <a href="https://github.com/kohxuan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@kohxuan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/koh-su-xuan-824795260/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-kohxuan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drshahizan/"></a>
+    <a href="https://www.linkedin.com/in/su-xuan-koh-824795260/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-kohxuan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/su-xuan-koh-824795260/"></a>
     <a href="mailto:koh.xuan@graduate.utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-koh.xuan@graduate.utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahizan@utm.my.com"></a>
 - ⚡ Fun fact: I like drawing but never draw well. :art:
 - 📮 Self-introduction: [Bootstrap Portfolio](https://kohxuan.github.io/Bootstrap_Portfolio/index.html) | [HTML Portfolio](https://kohxuan.github.io/HTML_Portfolio/index.html)
