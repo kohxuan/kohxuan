@@ -15,7 +15,7 @@ I am **Koh Su Xuan**, a Student in Bachelor's Degree in Computer Science (Data E
 
 ---
 
-### Languages and Tools :keyboard:
+### :keyboard: Languages and Tools : 
 <!-- <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://user-images.githubusercontent.com/128120717/228771294-d9ab05a8-c88c-455a-b375-2e8896ec801f.png" width="30"></a> -->
 ![Languages and Tools](https://skillicons.dev/icons?i=cpp,html,css,figma,php,java,py)
 
@@ -28,7 +28,7 @@ I am **Koh Su Xuan**, a Student in Bachelor's Degree in Computer Science (Data E
 ---
 
 
-### ➡ GitHub Stats:
+### ➡ GitHub Stats :
 <p align="left">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kohxuan&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
 </p>
