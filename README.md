@@ -11,14 +11,13 @@ I am **Koh Su Xuan**, a Student in Bachelor's Degree in Computer Science (Data E
     <a href="https://www.linkedin.com/in/su-xuan-koh-824795260/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-kohxuan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/su-xuan-koh-824795260/"></a>
     <a href="mailto:koh.xuan@graduate.utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-koh.xuan@graduate.utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahizan@utm.my.com"></a>
 - ⚡ Fun fact: I like drawing but never draw well. :art:
-- 📮 Self-introduction: [Bootstrap Portfolio](https://kohxuan.github.io/Bootstrap_Portfolio/index.html) | [HTML Portfolio](https://kohxuan.github.io/HTML_Portfolio/index.html)
-<br/><br/>
-
+- 📮 Self-introduction: [GitHub](https://github.com/kohxuan)
 
 ---
 
 ### Languages and Tools :keyboard:
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://user-images.githubusercontent.com/128120717/228771294-d9ab05a8-c88c-455a-b375-2e8896ec801f.png" width="30"></a>
+<!-- <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://user-images.githubusercontent.com/128120717/228771294-d9ab05a8-c88c-455a-b375-2e8896ec801f.png" width="30"></a> -->
+![Languages and Tools](https://skillicons.dev/icons?i=cpp,html,css,figma,php,java,py)
 
 ---
 
