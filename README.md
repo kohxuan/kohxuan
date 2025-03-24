@@ -2,8 +2,6 @@
 
 I am **Koh Su Xuan**, a Student in Bachelor's Degree in Computer Science (Data Engineering), Universiti Teknologi Malaysia (UTM).<br/><br/>
 
-
-
 - 🌱 Currently learning programming languages. :computer:
 - 💬 Ask me about anything you interested in! :crystal_ball:
 - 📫 Reach me via: 
@@ -22,17 +20,26 @@ I am **Koh Su Xuan**, a Student in Bachelor's Degree in Computer Science (Data E
 ---
 
 ### 🔥 My Stats :
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=kohxuan&theme=graywhite"/>
-<!-- <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kohxuan&theme=graywhite&hide_border=true&short_numbers=true"/> -->
+<p align="left">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kohxuan&theme=graywhite"/>
+<!--     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kohxuan&theme=graywhite&hide_border=true&short_numbers=true"/> -->
+</p>
 
 ---
 
-
 ### ➡ GitHub Stats :
 <p align="left">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kohxuan&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kohxuan&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff">
+<!--     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kohxuan&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555"> -->
 </p>
 
+---
+
+### 📌 Most Used Languages :
+<p align="left">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohxuan&layout=compact&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff">
+<!--     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohxuan&layout=compact&hide_border=true&title_color=5391FE&text_color=555"> -->
+</p>
 
 ---
 
