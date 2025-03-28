@@ -29,7 +29,7 @@ I am **Koh Su Xuan**, a Student in Bachelor's Degree in Computer Science (Data E
 
 ### ➡ GitHub Stats :
 <p align="left">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kohxuan&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kohxuan&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff&cache_seconds=300">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohxuan&layout=compact&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff&cache_seconds=300">
 <!--     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kohxuan&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555"> -->
 </p>
