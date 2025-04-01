@@ -43,6 +43,7 @@ I am **Koh Su Xuan**, a Student in Bachelor's Degree in Computer Science (Data E
 - 📝 **[Task Management System - PHP, MySQL](https://github.com/kohxuan/TaskManagementSystem-Task-X)**
 - 🗒️ **[Note Management System - PHP, MySQL](https://github.com/kohxuan/NoteManagementSystem-PHP)**
 - 🏨 **[Hotel Booking System - C++](https://github.com/kohxuan/HotelBookingSystem-Cpp)**
+- 🏦 **[Banking System - C++](https://github.com/kohxuan/BankingSystem-Cpp)**
 
 ---
 
