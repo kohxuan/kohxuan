@@ -38,7 +38,7 @@ I am **Koh Su Xuan**, a Student in Bachelor's Degree in Computer Science (Data E
 - 🌆 **[Urban Heat Island (UHI) & Geospatial Analysis - Python](https://github.com/kohxuan/EYOpenScienceAIDataChallengeProgram)**
 - 📊 **[Data Analysis - Healthcare Access And Outcomes - Python](https://github.com/kohxuan/DataAnalysis-HealthcareAccessAndOutcomes)**
 - 💼 **[Finance Module - Generate Finance Report - SAP](https://github.com/kohxuan/FinanceModule_GenerateFinanceReport-SAP)**
-- 🗓️ **[Leave Tracking and Management System - Google App Script](https://github.com/kohxuan/GoogleWorkspaceHackathon_APU)**
+- 🗓️ **[Automated Leave Tracking and Management System - Google App Script](https://github.com/kohxuan/GoogleWorkspaceHackathon_APU)**
 - 📖 **[Library Management System - Java](https://github.com/kohxuan/LibraryManagementSystem-Java)**
 - 📝 **[Task Management System - PHP, MySQL](https://github.com/kohxuan/TaskManagementSystem-Task-X)**
 - 🗒️ **[Note Management System - PHP, MySQL](https://github.com/kohxuan/NoteManagementSystem-PHP)**
