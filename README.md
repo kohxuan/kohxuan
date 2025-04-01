@@ -19,6 +19,36 @@ I am **Koh Su Xuan**, a Student in Bachelor's Degree in Computer Science (Data E
 
 ---
 
+### 🚀 Projects :
+
+#### 🌟 Featured Projects
+
+> 🌐 **[Trustify - Decentralized Reputation System](https://github.com/kohxuan/MYUniversitiesHackathon_HackQuest)**
+> 
+> **Description:** Trustify is a decentralized platform for local businesses, leveraging blockchain to ensure transparent and reliable customer-business interactions.
+> 
+> **Technologies:** Solidity, JavaScript, MetaMask, Hardhat
+
+> 📚 **[Youth Ventures Student Portfolio Management System (StuPort)](https://github.com/kohxuan/Explorer_StuPort)**
+> 
+> **Description:** StuPort is a web-based management system for Youth Ventures Asia, designed to manage student portfolios and activities efficiently.
+>
+> **Technologies:** PHP, MySQL, MVC architecture, Metronic UI
+
+
+#### 📁 Other Projects
+
+- 🌆 **[Urban Heat Island (UHI) & Geospatial Analysis - Python](https://github.com/kohxuan/EYOpenScienceAIDataChallengeProgram)**
+- 📊 **[Data Analysis - Healthcare Access And Outcomes - Python](https://github.com/kohxuan/DataAnalysis-HealthcareAccessAndOutcomes)**
+- 💼 **[Finance Module - Generate Finance Report - SAP](https://github.com/kohxuan/FinanceModule_GenerateFinanceReport-SAP)**
+- 🗓️ **[Leave Tracking and Management System - Google App Script](https://github.com/kohxuan/GoogleWorkspaceHackathon_APU)**
+- 📖 **[Library Management System - Java](https://github.com/kohxuan/LibraryManagementSystem-Java)**
+- 📝 **[Task Management System - PHP, MySQL](https://github.com/kohxuan/TaskManagementSystem-Task-X)**
+- 🗒️ **[Note Management System - PHP, MySQL](https://github.com/kohxuan/NoteManagementSystem-PHP)**
+- 🏨 **[Hotel Booking System - C++](https://github.com/kohxuan/HotelBookingSystem-Cpp)**
+
+---
+
 ### 🔥 My Stats :
 <p align="left">
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kohxuan&theme=graywhite"/>
@@ -30,7 +60,8 @@ I am **Koh Su Xuan**, a Student in Bachelor's Degree in Computer Science (Data E
 ### ➡ GitHub Stats :
 <p align="left">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kohxuan&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff&cache_seconds=300">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohxuan&layout=compact&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff&cache_seconds=300">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohxuan&layout=compact&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff&langs_count=8&hide=html,CSS&cache_seconds=300">
+<!--     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohxuan&layout=compact&langs_count=10&hide=html,CSS&cache_seconds=300"> -->
 <!--     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kohxuan&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555"> -->
 </p>
 
@@ -39,7 +70,9 @@ I am **Koh Su Xuan**, a Student in Bachelor's Degree in Computer Science (Data E
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/128119778/229175931-ae1db102-0af3-4ce3-be37-9800486b68b0.gif" width="100"/>
 </div>
+
 <br/>
+
 <div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=kohxuan&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=kohxuan&style=flat-square&color=blue" alt=""/>
 </div>
