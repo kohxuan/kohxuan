@@ -41,8 +41,8 @@ I am **Koh Su Xuan**, a Student in Bachelor's Degree in Computer Science (Data E
 - 💼 **[Finance Module - Generate Finance Report - SAP](https://github.com/kohxuan/FinanceModule_GenerateFinanceReport-SAP)**
 - 🗓️ **[Automated Leave Tracking and Management System - Google Apps Script](https://github.com/kohxuan/GoogleWorkspaceHackathon_APU)**
 - 📖 **[Library Management System - Java](https://github.com/kohxuan/LibraryManagementSystem-Java)**
-- 📝 **[Task Management System - PHP, MySQL](https://github.com/kohxuan/TaskManagementSystem-Task-X)**
-- 🗒️ **[Note Management System - PHP, MySQL](https://github.com/kohxuan/NoteManagementSystem-PHP)**
+- 📝 **[Task Management System - PHP, SQL](https://github.com/kohxuan/TaskManagementSystem-Task-X)**
+- 🗒️ **[Note Management System - PHP, SQL](https://github.com/kohxuan/NoteManagementSystem-PHP)**
 - 🏨 **[Hotel Booking System - C++](https://github.com/kohxuan/HotelBookingSystem-Cpp)**
 - 🩺 **[Student Health And Wellness Management System (SHWMS) - Figma](https://github.com/kohxuan/StudentHealthAndWellnessManagementSystem)**
 - 🏦 **[Banking System - C++](https://github.com/kohxuan/BankingSystem-Cpp)**
