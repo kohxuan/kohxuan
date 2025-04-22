@@ -81,6 +81,7 @@ I am **Koh Su Xuan**, a Student in Bachelor's Degree in Computer Science (Data E
 
 #### 📁 Other Certifications
 
+- **[Cloud untuk Rakyat via Rakyat Digital portal](https://portal.rakyatdigital.gov.my/#/certificate?id=a3N4MDQyOEBnbWFpbC5jb20tY2xvdWQtdW50dWstcmFreWF0)** - Ministry of Digital Malaysia, Issued April 2025
 - **[CyberSAFE untuk Rakyat via Rakyat Digital portal](https://portal.rakyatdigital.gov.my/#/certificate?id=a3N4MDQyOEBnbWFpbC5jb20tY3liZXJzZWN1cml0eQ%3D%3D)** - Ministry of Digital Malaysia, Issued March 2025
 - **[Generative AI via Rakyat Digital portal](https://portal.rakyatdigital.gov.my/#/certificate?id=a3N4MDQyOEBnbWFpbC5jb20tZ2VuZXJhdGl2ZS1haQ%3D%3D)** - Ministry of Digital Malaysia, Issued March 2025
 - **[GDSC Certified: Google Workspace Hackathon 2024](https://api.badgr.io/public/assertions/1Gw96Va5QDasXLiSI7O-Hg?identity__email=ksx0428%40gmail.com)** - Google Student Developer Students Club (GDSC) APU, Issued August 2024
