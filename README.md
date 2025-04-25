@@ -79,6 +79,14 @@ I am **Koh Su Xuan**, a Student in Bachelor's Degree in Computer Science (Data E
   </div>
 </blockquote>
 
+<blockquote style="display: flex; align-items: center; margin-bottom: 20px;">
+  <a href="https://www.credly.com/badges/a09f0b64-b2de-4bd2-8515-f8e2b0305e4e/public_url"><img src="https://github.com/user-attachments/assets/fda32220-a84e-4beb-9178-2797c07679ec" alt="AWS Cloud Foundations Certificate Image" width="100" style="margin-right: 20px;"></a>
+  <div>
+    <strong><a href="https://www.credly.com/badges/a09f0b64-b2de-4bd2-8515-f8e2b0305e4e/public_url">AWS Academy Graduate Cloud Foundations</a></strong><br>
+    <strong>Issued by:</strong> Amazon Web Services (AWS) - April 2025
+  </div>
+</blockquote>
+
 #### 📁 Other Certifications
 
 - **[Cloud untuk Rakyat via Rakyat Digital portal](https://portal.rakyatdigital.gov.my/#/certificate?id=a3N4MDQyOEBnbWFpbC5jb20tY2xvdWQtdW50dWstcmFreWF0)** - Ministry of Digital Malaysia, Issued April 2025
